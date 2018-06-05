@@ -5,6 +5,7 @@ Download bootstrap
 
 | Date  | Block | Files | SHA256 |
 | --- | --- | --- | --- |
+| June 5, 2018 | 229679 | ([zip](https://transfer.sh/unqLf/bootstrap.zip)) ([tar.gz](https://transfer.sh/HUQcE/bootstrap.tar.gz)) | `7cabffd0c8be60e953fa0c81e944943bf33666aaf96b8650fef97a24896a0b01` |
 | June 4, 2018 | 227761 | ([zip](https://transfer.sh/IRNHu/bootstrap.zip)) ([tar.gz](https://transfer.sh/yKOAE/bootstrap.tar.gz)) | `5e0015b1d8a6bc5888e1894b70338a7c93a792b3497c9d1a87cb3abc730379c5` |
 
 ### Step 2
