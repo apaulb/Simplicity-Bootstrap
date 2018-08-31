@@ -5,7 +5,7 @@ Download bootstrap
 
 | Date  | Block | Files | SHA256 |
 | --- | --- | --- | --- |
-| Aug 11, 2018 | 355083 | ([zip](https://transfer.sh/Xiel8/bootstrap.zip)) ([tar.gz](https://transfer.sh/FXKrk/bootstrap.tar.gz)) | `9e395d200268591252ae5d1923eb47157131e58ae8d88420e654c9f8019c668e` |
+| Aug 31, 2018 | 396055 | ([zip](https://transfer.sh/jOFSA/bootstrap.zip)) ([tar.gz](https://transfer.sh/KuJpu/bootstrap.tar.gz)) | `4e7b7ab289d16954016eda16d2d1eecdee72c507f0af5fe680ef457a2c8a91d0` |
 
 ### Step 2
 Extract and move `bootstrap.dat` into data directory
